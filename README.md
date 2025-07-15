@@ -1,4 +1,4 @@
-A powerful agentic AI system for patent trend analysis and future technology prediction using Ollama, OpenSearch, and CrewAI.
+#A powerful agentic AI system for patent trend analysis and future technology prediction using Ollama, OpenSearch, and CrewAI.
 
 ## Overview
 
